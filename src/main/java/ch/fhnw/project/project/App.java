@@ -1,4 +1,4 @@
-package ch.fhnw.project;
+package ch.fhnw.project.project;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
